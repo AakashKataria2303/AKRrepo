@@ -10,7 +10,7 @@ jobs:
   run-action:
     name: Leapwork-Gitgub-Job
     runs-on: self-hosted
-      environment:Testing
+    environment: Testing
 
     steps:
       - uses: actions/checkout@v3
