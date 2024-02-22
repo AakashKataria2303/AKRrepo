@@ -9,7 +9,7 @@ permissions: write-all
 jobs:
   run-action:
     name: Leapwork-Gitgub-Job
-    runs-on: LAPTOP-8U86TUNK
+    runs-on: self-hosted
       environment:Testing
 
     steps:
