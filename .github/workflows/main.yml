@@ -8,7 +8,7 @@ permissions: write-all
 
 jobs:
   run-action:
-    name: Test with Leapwork
+    name: LAPTOP-8U86TUNK
     runs-on: self-hosted
       environment:Testing
 
