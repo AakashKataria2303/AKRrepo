@@ -1,4 +1,4 @@
-name: AKR-Github-Leapwork-interation
+name: AKR-Github-Leapwork-interation-
 on:
   push:
     branches:
