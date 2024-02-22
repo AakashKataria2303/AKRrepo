@@ -8,8 +8,8 @@ permissions: write-all
 
 jobs:
   run-action:
-    name: LAPTOP-8U86TUNK
-    runs-on: self-hosted
+    name: Leapwork-Gitgub-Job
+    runs-on: LAPTOP-8U86TUNK
       environment:Testing
 
     steps:
