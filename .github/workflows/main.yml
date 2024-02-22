@@ -10,7 +10,7 @@ jobs:
   run-action:
     name: Test with Leapwork
     runs-on: self-hosted
-      environment: Testing
+      environment:Testing
 
     steps:
       - uses: actions/checkout@v3
